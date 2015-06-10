@@ -1,5 +1,5 @@
 {
-  "name": "joyee-resume",
+  "name": "kevin-resume",
   "version": "1.0.0",
   "description": "这是一个在线简历生成器，使用 Gulp, Less 和 Jade 写成，支持用 Gulp 发布到 Github Pages。",
   "main": "gulpfile.js",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/joyeecheung/resume.git"
+    "url": "git://github.com/kevinwang04/resume.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -22,7 +22,7 @@
     "gulp-sourcemaps": "^1.5.2"
   },
   "bugs": {
-    "url": "https://github.com/joyeecheung/resume/issues"
+    "url": "https://github.com/kevinwang04/resume/issues"
   },
-  "homepage": "https://github.com/joyeecheung/resume"
+  "homepage": "https://github.com/kevinwang04/resume"
 }

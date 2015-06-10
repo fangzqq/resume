@@ -1,32 +1,32 @@
 {
     "data_lang": "zh-CN",
     "ga_id": "UA-63818301-2",
-    "resume_title": "张秋怡 - 个人简历",
-    "name": "张秋怡",
-    "repo": "https://github.com/joyeecheung/resume.git",
+    "resume_title": "王欢 - 个人简历",
+    "name": "王欢",
+    "repo": "https://github.com/kevinwang04/resume.git",
     "job_description": ["前端工程师", "软件工程师"],
     "contact": {
-        "phone": "13824481874",
-        "email": "joyeec9h3@gmail.com",
+        "phone": "17888837898",
+        "email": "kavinwang04@gmail.com",
         "wechat": {
-            "id": "joyee-cheung",
+            "id": "ChristianHuan_0715",
             "qrcode": "static/wechat.svg"
         },
         "sinaweibo": {
-            "id": "SYSU_Joyee",
-            "url": "http://weibo.com/2930876843"
+            "id": "kevinwangYT",
+            "url": "http://weibo.com/kevinwang04"
         },
         "github": {
-            "id": "joyeecheung"
+            "id": "kevinwang04"
         },
         "blog": {
-            "url": "http://joyeecheung.cnblogs.com"
+            "url": "http://blog.kwang520.com"
         }
     },
     "links": [
         {
             "type": "repo",
-            "url": "https://github.com/joyeecheung/resume"
+            "url": "https://github.com/kevinwang04/resume"
 
         },
         {
@@ -36,20 +36,20 @@
         },
         {
             "type": "zhihu",
-            "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
+            "url": "http://www.zhihu.com/people/ai-ai-1-68"
         },
         {
             "type": "doubanbook",
-            "url": "http://book.douban.com/people/joyee-cheung/"
+            "url": "http://book.douban.com/people/129372798/"
         }
     ],
     "education": [
         {
             "type": "undergraduate",
-            "name": "中山大学",
-            "major": "软件工程",
-            "start": "2012",
-            "end": "2016",
+            "name": "北京科技大学",
+            "major": "通信工程",
+            "start": "2013",
+            "end": "2017",
             "honor": [
                 "2012 - 2013 学年度校**三等奖学金**",
                 "2013 - 2014 学年度校**一等奖学金**"
@@ -63,12 +63,12 @@
                 {
                     "type": "CET-4",
                     "full": "750",
-                    "score": "679"
+                    "score": "519"
                 },
                 {
                     "type": "CET-6",
                     "full": "750",
-                    "score": "616"
+                    "score": "484"
                 }
             ],
             "description": [
@@ -97,9 +97,9 @@
         {
             "type": "internship",
             "techtype": "frontend",
-            "place": "埃森哲广州 CDC",
-            "start": "2014.08",
-            "end": "2014.09",
+            "place": "北京月月鸟科技公司",
+            "start": "2015.04",
+            "end": "2015.06",
             "name": "前端开发",
             "description": [
                 "参与某企业内部办公系统的前端开发，基于 `jQuery UI` 、`Bootstrap` 完成业务需求，实现 UI 与数据交互",
