@@ -115,9 +115,8 @@
                     "description": [
                         "熟悉 `ECMAScript`(`JavaScript`) 及其部分实现",
                         "能够脱离框架使用 `原生` 的javascript进行开发",
-                        "熟悉 `模块化`（`CommonJS`）、`面向对象`的 JavaScript",
-                        "了解主要的 `ECMAScript 6` 新特性",
-                        "了解 `原型模式` / 构造函数模式` 等 `javascript` 常见 `设计模式`"
+                        "了解 `模块化`（`CommonJS`）、`面向对象`的 JavaScript",
+                        "了解 `原型模式` / `构造函数模式` 等javascript常见 `设计模式`"
                     ]
                 },
                 {
@@ -131,7 +130,8 @@
                 {
                     "summary": "熟悉 `jQuery` / `jQuery UI` / `Bootstrap`",
                     "description": [
-                        "熟悉jQuery基本使用与扩展插件，能为项目进行定制",
+                        "能使用 `bootstrap` 框架搭建适配 `移动端` 的web页面",
+                        "了解jQuery基本使用与扩展插件，能为项目进行定制",
                         "阅读过部分源代码，了解其设计思路与部分实现细节"
                     ]
                 },
@@ -154,9 +154,9 @@
                     "summary": "了解 `Node.js`",
                     "description": [
                         "能够使用 `Node.js API` 或 `Express` / `sockit.io` 搭建简单的 Web Server",
-                        "了解前后端分离 `RESTful API` 规范",
+                        "了解前后端分离 `Restful API` 规范",
                         "了解nodejs `事件驱动` 的服务器模型以及 `异步I/O` ",
-                        "了解 常用的 `模板引擎` （`Jade` / `ejs` 等）",
+                        "了解 常用的 `模板引擎` （`jade` / `ejs` 等）",
                         "了解后端 `MEAN框架` （MongoDB/Express/AngularJS/Nodejs）"
                     ]
                 },
@@ -164,7 +164,7 @@
                 {
                     "summary": "其他",
                     "description": [
-                        "能够使用 `Apache` & `PHP`) 搭建简单的 Web Server",
+                        "能够使用 `Apache` & `PHP` 搭建简单的 Web Server",
                         "能够搭建 `mysql` 数据库，了解基本的数据库读取和删改操作",
                         "了解 `HTTP`、 `TCP/IP`、 `WebSocket` 协议",
                         "了解 `MongoDB` / `Nosql` 等非关联型数据库"
@@ -175,14 +175,14 @@
         {
             "type": "miscellaneous",
             "item": [
-                " 以`Linux Ubuntu`为日常工作环境 ,了解terminal常用命令 操作，",
+                " 以`Linux Ubuntu`为日常工作环境 ,了解 `terminal` 常用命令 操作，",
                 "了解 `Python`，能够使用 `scrapy` 等框架实现简单的爬虫并按照路径进行分类",
                 "熟悉 `Sublime Text` / `Vim` 等编辑器及插件使用 ",
                 "了解`XSS` / `CSRF` 等基本的 `Web 安全`知识",
                 "能够使用 `Git`，`SVN` 等版本管理工具 ",
                 "能够使用 `Balsamiq Mockups`等工具进行页面原型设计",
                 "能够使用 `Markdown` 进行写作",
-                "能够使用 `Photoshop` / `skech up` 完成简单的设计"
+                "能够使用 `Photoshop` / `Skech up` 完成简单的设计"
             ]
         }
     ]
