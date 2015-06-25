@@ -1,6 +1,6 @@
 ## My Resume
 
-这是一个在线简历生成器，使用 Gulp, Less 和 Jade 写成，支持用 Gulp 发布到 Github Pages。
+使用 Gulp, Less 和 Jade 写成，支持用 Gulp 发布到 Github Pages。
 
 ## Build
 
