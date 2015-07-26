@@ -4,13 +4,13 @@
     "resume_title": "王欢 - 个人简历",
     "name": "王欢",
     "repo": "https://github.com/kevinwang04/resume.git",
-    "job_description": ["前端工程师", "软件工程师"],
+    "job_description": ["前端工程师"],
     "contact": {
         "phone": "17888837898",
         "email": "kavinwang04@gmail.com",
         "wechat": {
             "id": "ChristianHuan_0715",
-            "qrcode": "static/wechat.svg"
+            "qrcode": "static/wechat.jpg"
         },
         "sinaweibo": {
             "id": "kevinwangYT",
@@ -20,7 +20,7 @@
             "id": "kevinwang04"
         },
         "blog": {
-            "url": "http://blog.kwang520.com"
+            "url": "http://home.kwang520.com"
         }
     },
     "links": [
@@ -31,12 +31,12 @@
         },
         {
             "type": "pdf",
-            "url": "static/joyeecheung.pdf"
+            "url": "static/kevinwang.pdf"
 
         },
         {
             "type": "zhihu",
-            "url": "http://www.zhihu.com/people/ai-ai-1-68"
+            "url": "http://www.zhihu.com/people/kevinwang04"
         },
         {
             "type": "doubanbook",
@@ -51,7 +51,7 @@
             "start": "2013",
             "end": "2017",
             "honor": [
-                
+                "大三"
             ]  
         }
     ],
@@ -61,19 +61,18 @@
             "certificate": [
                 {
                     "type": "CET-4",
-                    "full": "750",
+                    "full": "715",
                     "score": "519"
                 },
                 {
                     "type": "CET-6",
-                    "full": "750",
+                    "full": "715",
                     "score": "484"
                 }
             ],
             "description": [
-                "能流畅阅读英文专业书籍、论文、文档、博客、技术新闻及其他资料",
-                "掌握科学上网方法，能无压力翻墙查阅资料，能在Stack Overflow、github issues、gmail上使用英文进行交流",
-                "可无字幕观看在线 MOOC 课程、开发者大会视频"
+                "可大致阅读英文专业书籍、开发文档、技术博客、技术新闻及其他资料",
+                "掌握科学上网方法，能无压力翻墙查阅资料，能在Stack Overflow、github issues、gmail上使用英文进行交流"
             ]
         }
     ],
@@ -86,10 +85,10 @@
             "end": "2015.06",
             "name": "web前端 开发",
             "description": [
-                "基于web设计稿，使用bootstrap、jQuery等框架进行静态页面的实现",
-                "使用 `MUI` & `HBuild` 等移动端web工具开发web app",
-                "使用 `nodejs` & `jade` & `express` 以及 `MongoDB` 进行服务端开发调试",
-                "使用 `php yii框架` 以基于 `LAMP` 搭建游戏后台"
+                "`公司网站静态页面的实现:` 期间主要使用了javascript/html/css 以及 jQuery 、bootstrap 等常用前端框架和库实现web设计图页面,我负责所有前台页面和后台管理页面，并和后端进行对接",
+                "`搭建维护个人博客:`自主搭建并维护了两个技术博客，不定期更新博客内容记录自己的学习心得，使用过 hexo 等博客管理工具，博客全部部署在 github pages ",
+                "`移动端web工具开发客户端 app:` 因团队参加物联网大赛需要开发移动端app,期间接触了phonegap，reactNative等移动端开发，综合考虑下使用开发成本较低的HBuilder工具进行开发",
+                "`使用 nodejs 开发的小工具:`在学习前端的过程中逐渐对 node 产生兴趣，使用superagent库写过一些抓取论坛发布招聘消息的爬虫，也使用过 express 等框架和模板引擎搭建一些小型的及时通信应用和博客系统，数据库使用 mongoDB "
             ],
             "stack": ["nodejs", "express", "mocha", "chai", "coffeescript", "mongodb"]
         }
@@ -101,48 +100,37 @@
                 {
                     "summary": "熟悉 `HTML` / `CSS`",
                     "description": [
-                        "能够编写语义化的 `HTML`，模块化的 `CSS`，完成较复杂的布局",
+                        "能够编写语义化的 `HTML`，模块化的 `CSS`，完成 `自适应` 、`响应式` 等常见的布局",
                         "熟悉 `过渡` / `变换` / `媒体查询` / `关键帧动画`  等css3特性",
-                        "能够完成 `瀑布流布局` / `栅格布局` / `自适应布局` `响应式布局` 等常见布局",
-                        "了解已标准化的 `HTML5` / `CSS3` 新特性",
                         "了解常见的浏览器`兼容性`问题及解决方案",
-                        "了解 `less` / `sass` 等css动态样式语言"
+                        "了解 `less` 等css动态样式语言"
 
                     ]
                 },
-                {
+                {   
                     "summary": "熟悉 `JavaScript`",
                     "description": [
-                        "熟悉 `ECMAScript`(`JavaScript`) 及其部分实现",
                         "能够脱离框架使用 `原生` 的javascript进行开发",
                         "了解 `模块化`（`CommonJS`）、`面向对象`的 JavaScript",
-                        "了解 `原型模式` / `构造函数模式` 等javascript常见 `设计模式`"
-                    ]
-                },
-                {
-                    "summary": "熟悉 `DOM` / `BOM`",
-                    "description": [
                         "了解原生 `DOM` 与 `BOM` ，熟悉相关标准以及兼容性，能完成桌面 / 移动端前端组件的开发",
-                        "了解 `Ajax` 使用利弊，能够基于Ajax实现数据 `异步加载`",
-                        "了解 `DOM事件流` & `DOM扩展`"
+                        "了解 `Ajax` 使用利弊，能够基于Ajax实现数据 `异步加载`"
                     ]
                 },
                 {
                     "summary": "熟悉 `jQuery` / `jQuery UI` / `Bootstrap`",
                     "description": [
                         "能使用 `bootstrap` 框架搭建适配 `移动端` 的web页面",
-                        "了解jQuery基本使用与扩展插件，能为项目进行定制",
-                        "阅读过部分源代码，了解其设计思路与部分实现细节"
+                        "能够使用 `jQuery` 开发页面交互，并能基于项目引入相关插件",
+                        "能够使用 `jQuery UI` 框架进行页面布局"
                     ]
                 },
                 {
                     "summary": "其他",
                     "description": [
-                        "了解 `AngularJS` / `Backbone.js` 的实现思想、理解前端MVC和MVVM",
+                        "了解 `AngularJS` 等前端MVC的设计思想",
                         "了解 `JSLint` / `JSHint` / ` TDD单元测试` 等 `JavaScript开发工具` ",
                         "有 `Bower` / `Gulp` / `Grunt` 使用经验",
-                        "了解常见的前端开发规范，了解基本的前端性能优化知识",
-                        "关注 `reactJS` / `phonegap` / `github trending javascript`等新兴前端技术"
+                        "关注 `reactJS` / `phonegap` / `github trending`等新兴前端技术"
                     ]
                 }
             ]
@@ -154,8 +142,6 @@
                     "summary": "了解 `Node.js`",
                     "description": [
                         "能够使用 `Node.js API` 或 `Express` / `sockit.io` 搭建简单的 Web Server",
-                        "了解前后端分离 `Restful API` 规范",
-                        "了解nodejs `事件驱动` 的服务器模型以及 `异步I/O` ",
                         "了解 常用的 `模板引擎` （`jade` / `ejs` 等）",
                         "了解后端 `MEAN框架` （MongoDB/Express/AngularJS/Nodejs）"
                     ]
@@ -166,8 +152,7 @@
                     "description": [
                         "能够使用 `Apache` & `PHP` 搭建简单的 Web Server",
                         "能够搭建 `mysql` 数据库，了解基本的数据库读取和删改操作",
-                        "了解 `HTTP`、 `TCP/IP`、 `WebSocket` 协议",
-                        "了解 `MongoDB` / `Nosql` 等非关联型数据库"
+                        "了解 `HTTP`、 `TCP/IP`、 `WebSocket` 协议"
                     ]
                 }
             ]
@@ -175,14 +160,12 @@
         {
             "type": "miscellaneous",
             "item": [
-                " 以`Linux Ubuntu`为日常工作环境 ,了解 `terminal` 常用命令 操作，",
-                "了解 `Python`，能够使用 `scrapy` 等框架实现简单的爬虫并按照路径进行分类",
+                " 以`Linux Ubuntu`为日常工作环境 ,了解 `terminal` 常用命令操作",
                 "熟悉 `Sublime Text` / `Vim` 等编辑器及插件使用 ",
                 "了解`XSS` / `CSRF` 等基本的 `Web 安全`知识",
-                "能够使用 `Git`，`SVN` 等版本管理工具 ",
+                "能够使用 `Git`，`SVN` 等版本管理工具进行协作开发 ",
                 "能够使用 `Balsamiq Mockups`等工具进行页面原型设计",
-                "能够使用 `Markdown` 进行写作",
-                "能够使用 `Photoshop` / `Skech up` 完成简单的设计"
+                "能够使用 `Markdown` 进行写作"
             ]
         }
     ]
