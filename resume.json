@@ -88,9 +88,23 @@
                 "`公司网站静态页面的实现:` 期间主要使用了javascript/html/css 以及 jQuery 、bootstrap 等常用前端框架和库实现web设计图页面,我负责所有前台页面和后台管理页面，并和后端进行对接",
                 "`搭建维护个人博客:`自主搭建并维护了两个技术博客，不定期更新博客内容记录自己的学习心得，使用过 hexo 等博客管理工具，博客全部部署在 github pages ",
                 "`移动端web工具开发客户端 app:` 因团队参加物联网大赛需要开发移动端app,期间接触了phonegap，reactNative等移动端开发，综合考虑下使用开发成本较低的HBuilder工具进行开发",
+                "`基于dock虚拟容器搭建的校内线上社团'达人贝壳':` 由于不满于学校社团的活动形式，使用discourse自主搭建了一个在线社区，部署在国外vps云主机digital ocean,目前正在进行内容开发",
                 "`使用 nodejs 开发的小工具:`在学习前端的过程中逐渐对 node 产生兴趣，使用superagent库写过一些抓取论坛发布招聘消息的爬虫，也使用过 express 等框架和模板引擎搭建一些小型的及时通信应用和博客系统，数据库使用 mongoDB "
             ],
             "stack": ["nodejs", "express", "mocha", "chai", "coffeescript", "mongodb"]
+        },
+        {
+            "type": "internship",
+            "techtype": "frontend",
+            "place": "世界邦旅行网",
+            "start": "2015.08",
+            "end": "2015.10",
+            "name": "web前端 开发",
+            "description": [
+                "`旅行报价系统平台开发:` 自定制旅行价目的报价平台，系统view层使用reactJS开发，数据流基于flux,使用Ajax异步加载，我负责部分react组件开发和调试，修复react-bootstrap存在的少量bug",
+                "`WiFi自营管理系统:` 管理出行WiFi的自营平台，我主要负责前端部分，使用jade和sass开发，gulp和webpack打包发布 "
+            ],
+            "stack": ["nodejs", "react.js", "react", "webpack", "gulp", "jade", "sass"]
         }
     ],
     "skills": [
@@ -103,8 +117,7 @@
                         "能够编写语义化的 `HTML`，模块化的 `CSS`，完成 `自适应` 、`响应式` 等常见的布局",
                         "熟悉 `过渡` / `变换` / `媒体查询` / `关键帧动画`  等css3特性",
                         "了解常见的浏览器`兼容性`问题及解决方案",
-                        "了解 `less` 等css动态样式语言"
-
+                        "了解 `less` 、 `sass` 等css动态样式语言"
                     ]
                 },
                 {   
@@ -129,8 +142,8 @@
                     "description": [
                         "了解 `AngularJS` 等前端MVC的设计思想",
                         "了解 `JSLint` / `JSHint` / ` TDD单元测试` 等 `JavaScript开发工具` ",
-                        "有 `Bower` / `Gulp` / `Grunt` 使用经验",
-                        "关注 `reactJS` / `phonegap` / `github trending`等新兴前端技术"
+                        "有 `Bower` / `Gulp` / `webpack` 使用经验",
+                        "关注 `reactJS` / `web component` / `github trending js`等新兴前端技术"
                     ]
                 }
             ]
@@ -151,6 +164,7 @@
                     "summary": "其他",
                     "description": [
                         "能够使用 `Apache` & `PHP` 搭建简单的 Web Server",
+                        "能够使用 `nginx` 搭建代理服务器",
                         "能够搭建 `mysql` 数据库，了解基本的数据库读取和删改操作",
                         "了解 `HTTP`、 `TCP/IP`、 `WebSocket` 协议"
                     ]
